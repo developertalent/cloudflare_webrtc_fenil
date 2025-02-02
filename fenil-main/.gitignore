@@ -1,17 +1,17 @@
 node_modules
-.DS_STORE
-.wrangler
-.drizzle.env
+# .DS_STORE
+# .wrangler
+# .drizzle.env
 
-/.cache
+# /.cache
 /build
-/dist
+# /dist
 /public/build
-/.mf
-.env
-.dev.vars
-.sentryclirc
+# /.mf
+# .env
+# .dev.vars
+# .sentryclirc
 
-playwright-report
-test-results
+# playwright-report
+# test-results
 
