@@ -49,6 +49,7 @@
 		"@remix-run/react": "2.11.1",
 		"@tensorflow-models/body-segmentation": "^1.0.2",
 		"@tensorflow/tfjs-backend-webgl": "^4.15.0",
+		"@tensorflow/tfjs-converter": "^4.22.0",
 		"@tensorflow/tfjs-core": "^4.15.0",
 		"clsx": "^2.1.1",
 		"cookie": "^0.6.0",
