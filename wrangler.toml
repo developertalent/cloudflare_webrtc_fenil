@@ -8,7 +8,7 @@ compatibility_flags = ["nodejs_compat"]
   bucket = "./public"
 
 [vars]
-CALLS_APP_ID = "YOUR_CALLS_SFU_APP_ID_HERE"
+CALLS_APP_ID = "8182fd3cbabb4f7203cbf45ea3522a46"
 
 [[durable_objects.bindings]]
 name = "rooms"
