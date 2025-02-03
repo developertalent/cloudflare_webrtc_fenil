@@ -1,5 +1,5 @@
 {
-	"name": "orange-meets",
+	"name": "dating-app",
 	"module": "worker.js",
 	"private": true,
 	"sideEffects": false,

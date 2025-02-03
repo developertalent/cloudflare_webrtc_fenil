@@ -13,7 +13,7 @@ export const Disclaimer: FC<DisclaimerProps> = ({ className }) => {
 				className
 			)}
 		>
-			Orange Meets is a demo application built using{' '}
+			Dating app is a demo application built using{' '}
 			<a className="underline" href="https://developers.cloudflare.com/calls/">
 				Cloudflare Calls
 			</a>
