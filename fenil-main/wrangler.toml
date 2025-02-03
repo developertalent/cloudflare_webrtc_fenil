@@ -23,7 +23,7 @@ name = "rooms"
 class_name = "ChatRoom"
 
 [vars]
-CALLS_APP_ID = "700932c6384d6f4ba19838afa3ab93cd"
+CALLS_APP_ID = "614d83e34bf2f1b7b80d5390a3fa0f61"
 TURN_SERVICE_ID = "53fa66872a8636170428abae9b049193"
 
 [[queues.producers]]
